@@ -177,7 +177,7 @@ input {
   margin-right: 50px;
 }
 
-.header-connect {
+.connect {
   margin-left: auto;
   display: flex;
   align-items: center;
@@ -238,7 +238,7 @@ input {
   margin-right: 10px;
 }
 
-.hero-section {
+.hero {
   text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
